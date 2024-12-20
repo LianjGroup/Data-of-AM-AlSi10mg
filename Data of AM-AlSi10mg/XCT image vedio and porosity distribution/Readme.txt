@@ -1,0 +1,1 @@
+Please use VLC software to open the mpg format vedio
